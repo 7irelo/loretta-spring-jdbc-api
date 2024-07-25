@@ -9,5 +9,4 @@ class LorettaBankApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
